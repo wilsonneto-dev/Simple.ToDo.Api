@@ -1,5 +1,4 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using ToDo.Data;
 using ToDo;
 
 var builder = WebApplication.CreateBuilder(args);
